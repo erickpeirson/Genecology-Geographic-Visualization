@@ -1,0 +1,1 @@
+"""Retrieves GeoNames URIs from concepts in Conceptpower (http://chps.asu.edu)."""
