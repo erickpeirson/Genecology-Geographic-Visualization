@@ -1,0 +1,299 @@
+[
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Institution",
+			"researchers": Researchers
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [Longitude,Latitude]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Botany Dept., Aberystwyth.",
+			"researchers": 1
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-4.08839,52.41483]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Welsh Plant Breeding Station, Aberystwyth.",
+			"researchers": 4
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-4.0637,52.4155]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Dept. of Agricultural Botany, Bangor.",
+			"researchers": 5
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-4.13459,53.22647]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Botany Dept., Birmingham.",
+			"researchers": 4
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-1.92115,52.4623]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Botany Dept., Bristol.",
+			"researchers": 4
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-2.59665,51.45523]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Botany School, Cambridge.",
+			"researchers": 4
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [0.12,52.203]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Botany School, Trinity College, Dublin.",
+			"researchers": 2
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-6.25833,53.3444]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Scottish Horticultural Research Inst., Mylnefield, Dundee.",
+			"researchers": 2
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-2.96667,56.5]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Botany Dept., Durham.",
+			"researchers": 9
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-1.57566,54.77676]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Botany Dept., Edinburgh.",
+			"researchers": 1
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-3.19648,55.95206]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Forestry Dept., Edinburgh",
+			"researchers": 1
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-3.19648,55.95206]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Scottish Plant Breeding Station, Pentlandfield, Edinburgh.",
+			"researchers": 5
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-3.19648,55.95206]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Botany Dept., Exeter.",
+			"researchers": 4
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-3.52751,50.7236]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Botany Dept., Keele.",
+			"researchers": 1
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-2.28686,53.00628]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Royal Botanic Gardens, Kew.",
+			"researchers": 5
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-0.28728,51.48614]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Botany Dept., Leeds.",
+			"researchers": 5
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-1.54785,53.79648]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Agriculture Dept., Leeds.",
+			"researchers": 1
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-1.54785,53.79648]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Botany Dept., Leicester.",
+			"researchers": 4
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-1.12444,52.62139]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Botany Dept., Liverpool.",
+			"researchers": 4
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-2.97794,53.41058]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Genetics Dept., Liverpool.",
+			"researchers": 3
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-2.97794,53.41058]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Botany Dept., London.",
+			"researchers": 2
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-0.1253,51.521]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Botany Dept., Newcastle-on-Tyne.",
+			"researchers": 4
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-1.61396,54.97328]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Botany School, Oxford.",
+			"researchers": 6
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-1.25596,51.75222]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Dept. of Agricultural Botany, Reading.",
+			"researchers": 3
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-0.97113,51.45625]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Botany Dept., Sheffield.",
+			"researchers": 2
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-1.48762,53.38061]
+		}
+	},
+	{
+		"type": "Feature",
+		"properties": {
+			"name": "Botany Dept., Swansea.",
+			"researchers": 1
+		},
+		"geometry": {
+			"type": "point",
+			"coordinates": [-3.94323,51.62079]
+		}
+	},
+]
