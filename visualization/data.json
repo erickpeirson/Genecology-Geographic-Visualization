@@ -292,6 +292,15 @@
 			"rel_type": "coauthor"
 		},
 		"coordinates": [[-3.94323,51.62079], [-1.48762,53.38061]]
+	},
+
+	{
+		"type": "LineString",
+		"properties": {
+			"strength": 2,
+			"rel_type": "coauthor"
+		},
+		"coordinates": [[-3.19648,55.95206], [-3.52751,50.7236]]
 	}
 
 ]
